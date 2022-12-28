@@ -1,7 +1,7 @@
 Implemented sandbox with new wallet connectors based on wagmi:
-* Native wagmi;
-* Rainbow-kit;
-* Family kit
+* [Native wagmi](https://wagmi.sh/);
+* [Rainbow-kit](https://www.rainbowkit.com/);
+* [Family kit](https://family.co/);
 
 ## Getting Started
 
