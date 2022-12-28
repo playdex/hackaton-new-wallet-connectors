@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Implemented sandbox with new wallet connectors based on wagmi:
+* Native wagmi;
+* Rainbow-kit;
+* Family kit
 
 ## Getting Started
 
